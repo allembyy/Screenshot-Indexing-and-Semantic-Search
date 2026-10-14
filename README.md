@@ -1,8 +1,8 @@
-# ScreenMind
+# Screenshotmaxxing
 
 **AI-powered semantic search for personal screenshots.**
 
-ScreenMind aims to make screenshots easier to find using natural-language queries instead of manually browsing through folders.
+Aims to make screenshots easier to find using natural-language queries instead of manually browsing through folders.
 
 ## How It Works
 
@@ -32,7 +32,7 @@ Python · PyTorch · Hugging Face Transformers · CLIP · FAISS · Tesseract OCR
 
 ## Current Status
 
-ScreenMind is a command-line proof of concept. Visual-semantic indexing and retrieval are implemented; OCR-aware ranking and desktop integration are planned.
+Command-line proof of concept. Visual-semantic indexing and retrieval are implemented; OCR-aware ranking and desktop integration are planned.
 
 ## Running Locally
 
