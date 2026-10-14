@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+screenmind.index
+images.pkl
+.env
+.cache/
